@@ -1,6 +1,10 @@
+
+
 # Minijuego de Adivinar el Número
 
 Este es un sencillo minijuego desarrollado con JavaScript donde el jugador debe adivinar un número generado aleatoriamente.
+
+![Interfaz Visual de Juego](img/Screenshot 2024-06-22 at 17-26-10 JS Game.png)
 
 ## Descripción
 
